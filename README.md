@@ -1,5 +1,5 @@
 -# ¡Hola, soy María Emilia Felissia! 👋
-Bienvenido/a a mi portafolio. 
+Bienvenido/a mi portafolio. 
 Soy comunicadora social en formación y estoy incursionando en el mundo de la programación. 
 Me interesa explorar cómo la tecnología puede potenciar la manera en que nos comunicamos y conectamos con los demás.
 
